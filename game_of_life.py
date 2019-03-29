@@ -29,7 +29,7 @@ pygame.init()
 
 sWidth = 500
 sHeight = 500
-res = 20
+res = 10
 length = int(sWidth/res)
 
 win = pygame.display.set_mode((sWidth,sHeight))
